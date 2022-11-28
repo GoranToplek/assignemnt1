@@ -1,0 +1,22 @@
+.maincontainer {
+  text-align: center;
+}
+body {
+  height: 100%;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-image: linear-gradient(rgb(0, 162, 255), rgb(3, 36, 78));
+}
+footer {
+  position: fixed;
+  height: 100px;
+  bottom: 0;
+  width: 100%;
+}
+.contaionerform {
+  text-align: center;
+}
+.container{
+  text-align: center;
+}
